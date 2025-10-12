@@ -7,16 +7,13 @@ PetNotes helps you manage pet profiles, write daily notes, track weight trends, 
 ## 🎥 Demo/Slides
 - **demo**: https://youtu.be/Xh1UiuBFhOw
 - **slides**: https://docs.google.com/presentation/d/11yM-FC9KQFOLO1MwBze8ioIcBvwnqjp9xz9aP8RQKdw/edit?usp=sharing
-<img width="230"  alt="PetNotes-img-handle_0000s_0011_Layer-31" src="https://github.com/user-attachments/assets/5f792d3e-db7e-44e1-be1a-134c23dc0a7e" />
-<img width="230"  alt="PetNotes-img-handle_0000s_0010_Layer-32" src="https://github.com/user-attachments/assets/93657459-ca46-4979-b5a2-63a66ec574c2" />
+
 <img width="230"  alt="PetNotes-img-handle_0000s_0001_Layer-29" src="https://github.com/user-attachments/assets/f1ff487b-f8be-4b04-b413-35900d995046" />
 <img width="230"  alt="PetNotes-img-handle_0000s_0024_Layer-3" src="https://github.com/user-attachments/assets/3fc2fed3-c296-4f2c-8fcb-3c21ac8c7c73" />
 <img width="230"  alt="PetNotes-img-handle_0000s_0025_Screenshot-2025-04-21-at-20 44 10" src="https://github.com/user-attachments/assets/c521f87b-a39f-4c75-a88e-5b367b400a00" />
-<img width="230"  alt="PetNotes-img-handle_0000s_0007_Layer-23" src="https://github.com/user-attachments/assets/7de700af-5ce1-49a7-9bee-eafa7f9430e4" />
 <img width="230"  alt="PetNotes-img-handle_0000s_0008_Layer-19" src="https://github.com/user-attachments/assets/48bb23f7-4e81-4d6d-8dfc-736ae97df2e8" />
-
 <img width="230"  alt="PetNotes-img-handle_0000s_0013_Layer-33" src="https://github.com/user-attachments/assets/4df313bf-2903-44a0-ae07-cec48e1de633" />
-
+<img width="230"  alt="PetNotes-img-handle_0000s_0010_Layer-32" src="https://github.com/user-attachments/assets/93657459-ca46-4979-b5a2-63a66ec574c2" />
 
 
 ## ⚡Technologies
@@ -102,6 +99,7 @@ To run the **PetNotes** app on your local Android Studio environment, follow the
 
 ## 📝 License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
+
 
 
 
